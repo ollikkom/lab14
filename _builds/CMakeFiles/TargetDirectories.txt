@@ -1,0 +1,7 @@
+/Users/qwerty/LABS/lab14/_builds/CMakeFiles/install/local.dir
+/Users/qwerty/LABS/lab14/_builds/CMakeFiles/rebuild_cache.dir
+/Users/qwerty/LABS/lab14/_builds/CMakeFiles/edit_cache.dir
+/Users/qwerty/LABS/lab14/_builds/CMakeFiles/install/strip.dir
+/Users/qwerty/LABS/lab14/_builds/CMakeFiles/install.dir
+/Users/qwerty/LABS/lab14/_builds/CMakeFiles/list_install_components.dir
+/Users/qwerty/LABS/lab14/_builds/CMakeFiles/builder.dir
